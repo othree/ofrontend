@@ -1,5 +1,7 @@
 # Web Front-End News Broadcast Service - ofrontend
 
+<img src="https://github.com/othree/ofrontend/raw/master/frontend-news.png" width="256" height="256" alt="" />
+
 - [Twitter](https://twitter.com/ofrontend)
 - [Telegram Channel](https://t.me/ofrontend)
 
